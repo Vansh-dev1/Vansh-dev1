@@ -27,8 +27,4 @@ I'm a **Computer Engineering Student** at **A.D. Patel Institute of Technology**
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vansh-dev1&show_icons=true&theme=tokyonight" alt="Vansh's Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh-dev1&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
-</p>
+
